@@ -1,2 +1,5 @@
 # hello-world
-Another Hello World Program you see on github
+Hey There!
+
+#About Me
+im that sort of guy that doesnt really do well at creating stuff locally, but still, im good with computers
